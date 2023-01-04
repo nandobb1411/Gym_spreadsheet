@@ -1,5 +1,5 @@
 # Calorie Tracker and Exercise Planner
-
+- https://docs.google.com/spreadsheets/d/17q7W33-SHAv9GhhnHPQYUx2VEXvYKlXtOpPtC8laJww/edit?usp=sharing
 ## Project Description
 
 So, Basically I was having issues with managing my diet and exercises on the gym, so I created this spreadsheet. This spreadsheet is designed to help individuals manage their daily caloric intake and plan their weekly exercise routine, the design is not the best, but im improving it still, and it's functional haha. Some of the features are yet to be implemented, but this readme file should guide me through the proccesss. It includes the following features:
