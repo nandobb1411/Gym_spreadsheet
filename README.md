@@ -3,6 +3,7 @@
 ## Project Description
 
 So, Basically I was having issues with managing my diet and exercises on the gym, so I created this spreadsheet. This spreadsheet is designed to help individuals manage their daily caloric intake and plan their weekly exercise routine, the design is not the best, but im improving it still, and it's functional haha. Some of the features are yet to be implemented, but this readme file should guide me through the proccesss. It includes the following features:
+- (In order to get the max out of this, use the google sheets link and clone the page for your usage)
 
 - A log for recording daily food intake, including the name of the food, portion size, and calorie count
 - A list of common exercises, organized by muscle group, with the corresponding number of calories burned per hour
@@ -33,3 +34,6 @@ So, Basically I was having issues with managing my diet and exercises on the gym
 - Integration with fitness tracking devices or apps to automatically log exercise data
 - Customization options for target calorie intake and exercise frequency based on individual goals and needs
 - Expansion of exercise and food databases for more comprehensive tracking and planning.
+
+## Room for feedbacks
+if you got any sugestions for this project, please do contact me by Email (fernando@bellelis.com.br), my instagram (nandob__) or even my linkedln (https://www.linkedin.com/in/fernando-bellelis-846231205/)
