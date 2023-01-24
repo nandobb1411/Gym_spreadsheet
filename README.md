@@ -6,8 +6,10 @@ So, Basically I was having issues with managing my diet and exercises on the gym
 
 - A log for recording daily food intake, including the name of the food, portion size, and calorie count
 - A list of common exercises, organized by muscle group, with the corresponding number of calories burned per hour
+- A list of calistenic exercises and a spot to put your progression in each exercise
 - A weekly exercise planner, which recommends specific exercises to be performed on each day of the week based on the muscle groups to be targeted
 - The daily caloric consumption you must follow base on the BLR formula
+
 
 ## Benefits
 
